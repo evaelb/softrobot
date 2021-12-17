@@ -33,6 +33,6 @@ The Gripper consists of a silicone model with air channels, which are stacked in
 
 
 # Code
-The data used can be downloaded through this link or can be downloaded from this repository as well (folder 'AirPumpRelay2'). There are 1314 training images and 194 test images divided into two catgories, with and without mask.
+The data used can be downloaded through this link or can be downloaded from this repository as well (folder 'AirPumpRelay2'). 
 
 # Further information

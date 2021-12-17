@@ -1,6 +1,5 @@
 # Soft Robot Gripper
 One-week project: building a soft robot gripper
-dhasfg
 
 # About the Project
 

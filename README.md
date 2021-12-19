@@ -51,7 +51,8 @@ Finally the connectors are glued with an special super strong acrylic glue, and 
 For the de-molding the best is to take out each moving part, by destroying the connections made by the hot glue, and by taking out very carefully step by step the air canal by sliding it in the arms direction, outward. It requires to twist a bit the silicon, but thanks to its elasticity no issues.
 
 ![photo_2021-12-19_10-33-34](https://user-images.githubusercontent.com/90629366/146670562-8eda3571-2588-497d-a7e1-fcb73ad04ebc.jpg)
-![photo_2021-12-19_10-33-32](https://user-images.githubusercontent.com/90629366/146670577-febb32b0-5727-43af-bdb5-9b5ec35455eb.jpg)
+![photo_2021-12-19_10-49-57](https://user-images.githubusercontent.com/90629366/146670661-bc9b84ad-79ef-4e08-aae9-42eb964f0c6e.jpg)
+![photo_2021-12-19_10-49-59](https://user-images.githubusercontent.com/90629366/146670662-19645156-9733-4ff8-bcc2-a2a6246cdc58.jpg)
 
 # Further information
 Please to repeat the experience and benefits of our expererience and error made, feel free to contact via git.

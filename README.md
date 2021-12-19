@@ -40,6 +40,19 @@ The Gripper consists of a silicone model with air channels which are stacked int
 # Code
 The data used can be downloaded through this link or can be downloaded from this repository as well (folder 'AirPumpRelay2'). 
 
+# DFX Files
+There is 3 files. The base (base x1+ wall (and the little connectors x9 each the long wall x6) the air canal line has to be engraved, to give indication of were putting the air canal afterward.
+The air canal, wich have to be add on top of one layer of the connectors. Wich allow him to be at 0.5 cm above the base.
+The central module, wich is the only hard material used in the final soft robots, to allow the air tube to come into the robot, and to fix the junction of the 3 arms (the robot for movement need a solid piece to hold at).
+The holes have to be closed afterward with silicon and 3 tubes of the correct size have to be added on the beginning of the air canals, to make place for the entry of the future air tubes of the pumping system.
+
+Finally the connectors are glued with an special super strong acrylic glue, and the others are just assembled together. The impermeablility of the mold / to stop moving part to move, a little bit of normal hot glue is applied to each possible leakage joints.
+
+For the de-molding the best is to take out each moving part, by destroying the connections made by the hot glue, and by taking out very carefully step by step the air canal by sliding it in the arms direction, outward. It requires to twist a bit the silicon, but thanks to its elasticity no issues.
+
+![photo_2021-12-19_10-33-34](https://user-images.githubusercontent.com/90629366/146670562-8eda3571-2588-497d-a7e1-fcb73ad04ebc.jpg)
+![photo_2021-12-19_10-33-32](https://user-images.githubusercontent.com/90629366/146670577-febb32b0-5727-43af-bdb5-9b5ec35455eb.jpg)
+
 # Further information
 Please to repeat the experience and benefits of our expererience and error made, feel free to contact via git.
 

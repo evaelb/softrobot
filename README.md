@@ -8,6 +8,8 @@ In our project we wanted to build a soft robotic gripper, that would lift up fra
 
 Here we will describe our one week long project.
 
+![IMG_1705](https://user-images.githubusercontent.com/92156419/149164242-6394cd0b-6661-4190-b2f4-17e7eaaa060c.JPG)
+
 
 # Idea and Design
 The initial idea of our project was to build a soft robot gripper, with a feedback system. The grippers we considered had four or three fingers. We educated ourselves on benchmark and former projects e.g. on the soft robotics toolkit. https://softroboticstoolkit.com/

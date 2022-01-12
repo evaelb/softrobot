@@ -36,6 +36,7 @@ And is we were expecting, this last version, was also the best.
 
 # Setup
 The Gripper consists of a silicone model with air channels which are stacked into a air pumping system, with a wall very thin and the opposite thicker. The Air pumping system is composed of 3 relays, controled by an arduino board, 3 valve, allowing the air pumped by 2 motors to go or not into the 3 separted air canals of the robots.
+![IMG_1712 2](https://user-images.githubusercontent.com/92156419/149164828-1549e800-4971-4f4d-b8a0-139a124205cf.jpg)
 
 
 # Code
@@ -54,6 +55,13 @@ For the de-molding the best is to take out each moving part, by destroying the c
 ![photo_2021-12-19_10-33-34](https://user-images.githubusercontent.com/90629366/146670562-8eda3571-2588-497d-a7e1-fcb73ad04ebc.jpg)
 ![photo_2021-12-19_10-49-57](https://user-images.githubusercontent.com/90629366/146670661-bc9b84ad-79ef-4e08-aae9-42eb964f0c6e.jpg)
 ![photo_2021-12-19_10-49-59](https://user-images.githubusercontent.com/90629366/146670662-19645156-9733-4ff8-bcc2-a2a6246cdc58.jpg)
+
+# Challenges
+
+Firstly, the modeling software was quite complex and time-intense. Other challenges were to control the thickness of the silicone layers to control the inflation movement of the silicone model. One option to solve this would be to 3D-print the flexible parts of the gripper directly, as it gives more control than with our model. 
+Concerning the pumping system it was challenging to get enouch air-pressure to inflate our silicone model. As we only had two air-pumps for three canals, we created a system that would pump three canals with two-pumps. Still every canal can be controlled individually with the valves connected to the arduino.
+
+Another challenge is to get some kind of feedback system that reports on the stage of the gripper (inflated/deflated) and / or a sensor system that tells if the gripper is touching something. Herefor we considered a contact sensor containing liquid or a flexible tissue sensor. This system would have to be integrated parallel to the air-canal system. However, due to the lack of resources and timely constraints we did not implement a sensor/feedback system. 
 
 # Further information
 Please to repeat the experience and benefits of our expererience and error made, feel free to contact via git.
